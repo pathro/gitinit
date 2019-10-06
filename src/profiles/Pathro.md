@@ -1,4 +1,4 @@
 ---
-username: Pathro
+username: pathro
 fullname: Kiran Pathro
 ---
